@@ -91,4 +91,4 @@ Power BI connects to the **Gold layer** tables via **Databricks SQL Warehouse** 
 - 📊 Real-time insights in Power BI 
 - 🚀 Scalable architecture  
 
-Copyright©️ Codebasics Inc. All rights reserved.
+
